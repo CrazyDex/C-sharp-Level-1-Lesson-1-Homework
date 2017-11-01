@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\bin\Debug\BMICalc.exe.config
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\bin\Debug\BMICalc.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\bin\Debug\BMICalc.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\obj\Debug\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\obj\Debug\BMICalc.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\obj\Debug\BMICalc.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\BMICalc\obj\Debug\BMICalc.csprojResolveAssemblyReference.cache

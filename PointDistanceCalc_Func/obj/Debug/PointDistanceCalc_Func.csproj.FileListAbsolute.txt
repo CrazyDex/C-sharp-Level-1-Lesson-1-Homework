@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\PointDistanceCalc_Func\bin\Debug\PointDistanceCalc_Func.exe.config
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\PointDistanceCalc_Func\bin\Debug\PointDistanceCalc_Func.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\PointDistanceCalc_Func\bin\Debug\PointDistanceCalc_Func.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\PointDistanceCalc_Func\obj\Debug\PointDistanceCalc_Func.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\PointDistanceCalc_Func\obj\Debug\PointDistanceCalc_Func.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\PointDistanceCalc_Func\obj\Debug\PointDistanceCalc_Func.pdb

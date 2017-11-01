@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Pause\bin\Debug\Pause.exe.config
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Pause\bin\Debug\Pause.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Pause\bin\Debug\Pause.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Pause\obj\Debug\Pause.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Pause\obj\Debug\Pause.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Pause\obj\Debug\Pause.pdb

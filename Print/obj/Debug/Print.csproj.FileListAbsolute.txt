@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Print\bin\Debug\Print.exe.config
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Print\bin\Debug\Print.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Print\bin\Debug\Print.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Print\obj\Debug\Print.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Print\obj\Debug\Print.pdb

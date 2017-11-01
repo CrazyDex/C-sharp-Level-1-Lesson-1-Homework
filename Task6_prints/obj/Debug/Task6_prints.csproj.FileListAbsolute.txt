@@ -1,0 +1,9 @@
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\bin\Debug\Task6_prints.exe.config
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\bin\Debug\Task6_prints.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\bin\Debug\Task6_prints.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\obj\Debug\Task6_prints.csprojResolveAssemblyReference.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\obj\Debug\Task6_prints.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\obj\Debug\Task6_prints.exe
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\obj\Debug\Task6_prints.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\bin\Debug\MyPrint.dll
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\Task6_prints\bin\Debug\MyPrint.pdb

@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\MyPrint\bin\Debug\MyPrint.dll
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\MyPrint\bin\Debug\MyPrint.pdb
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\MyPrint\obj\Debug\MyPrint.csprojResolveAssemblyReference.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\MyPrint\obj\Debug\MyPrint.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\MyPrint\obj\Debug\MyPrint.dll
+C:\Users\Denis\source\repos\C sharp level 1. Lesson 1. Homework\MyPrint\obj\Debug\MyPrint.pdb
